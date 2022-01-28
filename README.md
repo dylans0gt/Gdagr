@@ -1,3 +1,5 @@
+(Problem(s): Program stops abruptly after second input. I'll fix that soon.)
+
 # Gdagr
 Ethical Hacking Tool
 ---
