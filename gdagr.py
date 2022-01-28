@@ -5,6 +5,7 @@ import urllib.request, urllib.error, urllib.parse
 from pyfiglet import Figlet
 import socket
 from googlesearch import search
+import requests
 
 class bcolors:
     HEADER = '\033[95m'
