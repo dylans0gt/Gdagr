@@ -1,0 +1,6 @@
+pip=19.0.1
+pyfiglet=0.8
+Figlet=2.2
+socket=3.7
+urllib
+googlesearch=1.0.1
