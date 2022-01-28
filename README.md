@@ -16,7 +16,7 @@ pip3 install requests
 
 pip3 install colorama
 
-# install the requirements
+# Install the requirements
 $ python3 -m pip install -r requirements.txt
 
 cd Gdagr
