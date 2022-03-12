@@ -1,5 +1,4 @@
 # refined code for gdagr (formerly gec-yume)
-# authorities contacted me and said previous name raised suspicion of attempted identity theft
 
 import urllib.request, urllib.error, urllib.parse
 from pyfiglet import Figlet
