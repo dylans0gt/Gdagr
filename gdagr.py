@@ -1,4 +1,3 @@
-# refined code for gdagr (formerly gec-yume)
 
 import urllib.request, urllib.error, urllib.parse
 from pyfiglet import Figlet
