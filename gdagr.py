@@ -31,12 +31,10 @@ first_input = input(f"{bcolors.FAIL}Type 1,2,3,4,5, or 6\nOr, type gdagr --list_
 
 print(" ")
 
-dork_list = [('1', 'allintext:password filetype:log after:2020'),  ('2', 'inurl:choosecard.php?catid='), 
-			('3', 'intitle:webcamXP 5'), ('4', 'inurl:/proc/self/cwd'), ('5', 'intitle:index.of id_rsa -id_rsa.pub'), 
-			('6', 'allintitle: restricted filetype:doc site:gov')]
+dork_list = [('1', 'https://www.google.com/search?q=allintext:password filetype:log after:2020'),  ('2', 'https://www.google.com/search?q=inurl:choosecard.php?catid='), 
+			('3', 'https://www.google.com/search?q=intitle:webcamXP 5'), ('4', 'https://www.google.com/search?q=inurl:/proc/self/cwd'), ('5', 'https://www.google.com/search?q=intitle:index.of id_rsa -id_rsa.pub'), 
+			('6', 'https://www.google.com/search?q=allintitle: restricted filetype:doc site:gov')]
 
-
-# fix this by making the result pages longer 
 
 if first_input == "gdagr --list_dorks":
 	print(" ")
